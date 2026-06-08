@@ -11,7 +11,7 @@ import os
 
 def main():
     # Define the path to your model file (adjust if you move it locally)
-    model_path = 'posture_model_v2.pkl'
+    model_path = 'posture_model_v3.pkl'
 
     # 1. & 2. Load the model and scaler from the pickle file
     try:
